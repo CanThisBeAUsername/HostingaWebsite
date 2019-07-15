@@ -1,0 +1,25 @@
+
+body {
+    font: 24px "Calibri";
+    background-color: orange;
+}
+h1 {
+    font: 30px;
+    text-align: center;
+    margin: 0 1.5% 24px 1.5%;
+ }
+nav {
+    text-align: center;
+}
+section {
+    border-radius: 15px;
+    background-color: white;
+    border: 3px solid black; 
+    margin: 0 1.5px 24px 1.5%;
+    width: 63%; /* This is only using 2/3 of the page */
+    float: left;
+}
+ol {
+    font: 20px;
+    color: blueviolet;
+}
